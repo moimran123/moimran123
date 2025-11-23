@@ -1,9 +1,9 @@
-<h1 align="center">Hey there 👋, I'm Abhishek Gupta</h1>
-<h3 align="center">Java Backend Developer | Spring Boot Wizard | OSS Explorer | AI + Infra Enthusiast</h3>
+<h1 align="center">Hey there 👋, I'm Mo Imran</h1>
+<h3 align="center">Java Backend Developer | Spring Boot Wizard | Frontend Explorer | AI + Infra Enthusiast</h3>
 
 ---
 
-🚀 Currently crafting scalable backend systems @ Cognam Technologies  
+🚀 Currently crafting scalable Fullstack systems @ Publicis Sapient
 🌐 Building NotiX - A robust notification delivery system with Kafka, Docker, Prometheus, and PostgreSQL  
 🤖 Integrated AI insights into logistics systems using OpenAI API  
 🔭 Always exploring distributed systems, event-driven architecture, and observability
@@ -32,47 +32,28 @@
 
 ---
 
-## 🌟 Featured Projects
 
-### 🔔 NotiX – Notification Delivery System (In Progress)
-> A scalable backend system for Email, SMS, and Push notifications.
-
-- Microservices with Spring Boot + Kafka + Docker
-- Resilient retry and failure tracking using PostgreSQL
-- Live observability with Prometheus + Grafana  
-🔗 [View Project](https://github.com/abhishekwork07/NotiX--Notification-Delivery-Service)
-
----
-
-### 🧠 MindSpace – Mental Health Support App
-> Full-stack video conferencing web app for therapy sessions
-
-- Node.js + MongoDB + OpenCV backend
-- Auth, scheduling, payments & real-time streaming  
-🔗 [View Project](https://github.com/jaytamrakar/mind-space-project)
-
----
 
 ## 💼 Experience
 
-### Cognam Technologies | Software Engineer  
-**July 2023 – Present (Remote)**  
-- 🚦 Heartbeat monitoring system with MQTT & ActiveMQ  
-- 📊 Dynamic audit & report module (PDF/Excel exports)  
-- ⚙️ Refactored search & indexing: 70% faster, 60% less storage  
-- 🤖 AI insights integration using OpenAI APIs
+### Publicis Sapient | Software Engineer  
+**Jan 2024 – Present | Bangalore, India**  
+- 🔧 Working on Java-based enterprise systems  
+- ☁️ Experience with Spring Boot, Microservices, AWS, Kafka, Docker  
+- ⚙️ Collaborating with cross-functional teams for scalable backend development  
 
-### Software Engineering Intern  
-**Jan 2023 – June 2023**  
-- Built complete Employee Management System  
-- Fixed 50+ backend bugs, implemented multilingual support
+### LTIMindtree | Java Developer Intern  
+**Feb 2023 – May 2023 | Bangalore, India**  
+- 📌 Developed backend modules in Java & Spring  
+- 🐞 Fixed 50+ issues improving system stability  
+- 🌐 Implemented multilingual support & configuration enhancements  
 
 ---
 
 ## 📚 Education
 
-🎓 **MCA, School of CS & IT, DAVV** (2021–2023) — *CGPA: 8.19*  
-🎓 **BCA, Dept. of Comp. App., APSU** (2018–2021) — *76.46%*
+🎓 **BE,Dayananda Sagar College of Engineering** (2019–2023) — *CGPA: 8.5*  
+
 
 ---
 
@@ -87,17 +68,18 @@
 ## 📈 GitHub Stats
 
 <p align="center">
-  <img width="47%" src="https://github-readme-stats.vercel.app/api?username=abhishekwork07&show_icons=true&theme=radical" />
-  <img width="47%" src="https://github-readme-streak-stats.herokuapp.com/?user=abhishekwork07&theme=radical" />
+  <img width="47%" src="https://github-readme-stats.vercel.app/api?username=moimran123&show_icons=true&theme=radical" />
+  <img width="47%" src="https://github-readme-streak-stats.herokuapp.com/?user=moimran123&theme=radical" />
 </p>
+
 
 ---
 
 ## 📫 Connect with Me
 
-- ✉️ [abhishek.work07@gmail.com](mailto:abhishek.work07@gmail.com)  
-- 💼 [LinkedIn](https://www.linkedin.com/in/abhishek-gupta-2bbb1919b/)  
-- 💻 [GitHub](https://github.com/abhishekwork07)
+- ✉️ [moimran16218227@gmail.com](mailto:moimran16218227@gmail.com)  
+- 💼 [LinkedIn](https://www.linkedin.com/in/mo-imran-a5712420b/)  
+- 💻 [GitHub](https://github.com/moimran123)
 
 ---
 
